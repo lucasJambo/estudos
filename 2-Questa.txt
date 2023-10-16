@@ -1,0 +1,3 @@
+Número = float(input("Digite um número:"))
+
+print("O Número informado",Número )
